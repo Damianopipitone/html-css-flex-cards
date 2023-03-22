@@ -53,3 +53,12 @@ h3 {
     display: flex;
 
 }
+
+a {
+    color: rgb(0, 179, 255);
+}
+
+.cards-padding {
+    padding-left: 10px;
+    padding-top: 10px;
+}
