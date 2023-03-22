@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.top-style {
+    font-family: 'Outfit', sans-serif;
+    text-align: center;
+    padding: 50px;
+}
+
+h1{
+    color: palevioletred;
+    padding: 30px;
+}
+
+.flex-text{
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-box {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    
+}
+
+img{
+    width: 120px;
+}
+
+main{
+    margin-inline: 200px;
+}
+
+.bg-div {
+    background-color: black;
+    width: 350px;
+    height: 120px;
+}
+
+h3 {
+    color: white;
+}
+
+
+.flex-card {
+    display: flex;
+
+}
